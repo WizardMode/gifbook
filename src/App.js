@@ -3,7 +3,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1>GIF BOOk</h1>
+        <center><h1>GIF BOOK</h1></center>
       </header>
     </div>
   );
