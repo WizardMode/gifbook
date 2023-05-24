@@ -1,3 +1,132 @@
 body {
-  background-color: aquamarine;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  /* background: #A0E7E5; */
+  background-color: #FBE7C6;
 }
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  border-bottom: solid
+}
+
+.cover {
+  max-width: 100px;
+  width: 100%;
+  height: 100px;
+  margin-left: 8px;
+  background-size: cover;
+}
+
+.book {
+  /*background-image: url("https://cdn.pixabay.com/photo/2021/03/27/09/03/notebook-6127838_1280.png")
+  */
+  /*background-image: url("https://cdn.pixabay.com/photo/2014/04/02/16/25/school-307210_1280.png");
+  */
+  background-image: url("https://cdn.pixabay.com/photo/2017/05/03/22/08/book-2282303_1280.png");
+}
+
+.book-hint {
+  margin-bottom: 0;
+}
+
+.gif-section {
+  margin-top: 40px;
+}
+
+.gif-title {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.gif-img {
+  max-width: 400px;
+  width: 100%;
+  height: 400px;
+
+  border: 6px solid white;
+  border-radius: 10px;
+   
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.rat {
+  background-image: url('https://cdn.pixabay.com/photo/2020/04/18/10/46/purple-5058717_1280.jpg');
+}
+
+.lizard {
+  background-image: url('https://cdn.pixabay.com/photo/2020/04/18/10/48/sheets-5058728_1280.jpg');
+}
+
+.rooster {
+background-image: url('https://cdn.pixabay.com/photo/2020/04/18/10/46/sheets-5058714_1280.jpg');
+}
+
+.penguin {
+background-image: url('https://cdn.pixabay.com/photo/2020/04/18/10/43/sheet-5058706_1280.jpg');
+
+}
+
+.frog {
+background-image: url(' https://cdn.pixabay.com/photo/2020/04/18/10/43/notebook-page-5058707_1280.jpg');
+}
+
+.whale {
+background-image: url('https://cdn.pixabay.com/photo/2020/04/18/10/48/sheet-5058729_1280.jpg ');
+}
+
+.lady {
+background-image: url("https://cdn.pixabay.com/photo/2020/04/18/10/46/grey-5058716_1280.jpg");
+}
+
+#gify-rat:hover {
+background-image: url("https://media3.giphy.com/media/1hqYk0leUMddBBkAM7/giphy.gif?         cid=ecf05e47mbzx8gcx60unk4qbefg4v08gslobcsh44wuez967&rid=giphy.gif&ct=g");
+}
+
+#gify-lizard:hover {
+background-image: url("https://media4.giphy.com/media/3oNMQtqpnse0dbFe06/200w.gif?cid=ecf05e47073eo2io9cqt4bshrglhujfi1cn522y76esf0bkc&rid=200w.gif&ct=g");
+}
+
+#gify-rooster:hover {
+background-image: url("https://media3.giphy.com/media/3osxY4WVmVocngv5Is/giphy.gif?cid=ecf05e47lx8kvypjhxe0s7suqtyt9lf7tc97chul4p2tewvb&rid=giphy.gif&ct=g");
+}
+
+#gify-penguin:hover {
+background-image: url("https://media2.giphy.com/media/QrvixQT7LjOcya3WNk/200w.gif?cid=ecf05e476dgvew53ngbffc3cmk799s0di2e2tlbhp68bium9&rid=200w.gif&ct=g");
+}
+
+#gify-frog:hover {
+background-image: url("https://media2.giphy.com/media/9W6zLbkiAwGQwTdpQW/200w.gif?cid=ecf05e4747orp66rk6stsqye0k75us4srxdhtghx71tc2lob&rid=200w.gif&ct=g");
+}
+
+#gify-whale:hover {
+background-image: url("https://media1.giphy.com/media/NEHwlQDizQSpa/200w.gif?cid=ecf05e47xxxqjv0ttiv9i2wjoa7klewevxyhjxzwc81aixwe&rid=200w.gif&ct=g");
+}
+
+#gify-lady:hover {
+background-image: url("https://media0.giphy.com/media/1jacd4JEUM03KcdORi/200w.gif?cid=ecf05e47ihgx9wp3zu9drvtuttmnh5ibgw3sap00jybjw4d1&rid=200w.gif&ct=g");
+}
+
+
+p {
+  text-shadow: 0px 0px 1px black;
+}
+
+.attribute {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.cite {
+ margin-top: 45px;
+ margin-bottom: 0px;
+}
+
