@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gifbook/static/css/main.5a8e2793.css",
+    "main.js": "/gifbook/static/js/main.64085cef.js",
+    "index.html": "/gifbook/index.html",
+    "main.5a8e2793.css.map": "/gifbook/static/css/main.5a8e2793.css.map",
+    "main.64085cef.js.map": "/gifbook/static/js/main.64085cef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a8e2793.css",
+    "static/js/main.64085cef.js"
+  ]
+}
