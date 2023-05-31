@@ -1,12 +1,13 @@
 
 function Header() {
     return (
-        <nav>
             <header>
+                <div>
                     <h1 className="title">GIF Diaries</h1>
-                    <div className="book cover"></div>
+                    <p className="hint">tap the pages over</p>
+                </div>
+                <div className="book"></div>
             </header>
-        </nav>
     )
 }
 

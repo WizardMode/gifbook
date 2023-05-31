@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="container">
       <Header />
-      <h3 className="book-hint">Hint: tap the page over</h3>
+      {/*<h3 className="book-hint">Hint: tap the page over</h3>*/}
       {pageElements}
       <Footer />
     </div>
