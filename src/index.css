@@ -10,7 +10,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 18px;
+  margin: 25px;
 }
 
 .title {
@@ -26,6 +26,7 @@ header {
   margin-top: -9px;
   padding: 2px;
   font-size: 12px;
+  border-radius: 5px;
   
 }
 
