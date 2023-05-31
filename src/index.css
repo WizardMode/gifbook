@@ -85,34 +85,33 @@ background-image: url('https://cdn.pixabay.com/photo/2020/04/18/10/48/sheet-5058
 background-image: url("https://cdn.pixabay.com/photo/2020/04/18/10/46/grey-5058716_1280.jpg");
 }
 
-#gify-rat:hover {
+#gif-1:hover {
 background-image: url("https://media3.giphy.com/media/1hqYk0leUMddBBkAM7/giphy.gif?         cid=ecf05e47mbzx8gcx60unk4qbefg4v08gslobcsh44wuez967&rid=giphy.gif&ct=g");
 }
 
-#gify-lizard:hover {
+#gif-2:hover {
 background-image: url("https://media4.giphy.com/media/3oNMQtqpnse0dbFe06/200w.gif?cid=ecf05e47073eo2io9cqt4bshrglhujfi1cn522y76esf0bkc&rid=200w.gif&ct=g");
 }
 
-#gify-rooster:hover {
+#gif-3:hover {
 background-image: url("https://media3.giphy.com/media/3osxY4WVmVocngv5Is/giphy.gif?cid=ecf05e47lx8kvypjhxe0s7suqtyt9lf7tc97chul4p2tewvb&rid=giphy.gif&ct=g");
 }
 
-#gify-penguin:hover {
+#gif-4:hover {
 background-image: url("https://media2.giphy.com/media/QrvixQT7LjOcya3WNk/200w.gif?cid=ecf05e476dgvew53ngbffc3cmk799s0di2e2tlbhp68bium9&rid=200w.gif&ct=g");
 }
 
-#gify-frog:hover {
+#gif-5:hover {
 background-image: url("https://media2.giphy.com/media/9W6zLbkiAwGQwTdpQW/200w.gif?cid=ecf05e4747orp66rk6stsqye0k75us4srxdhtghx71tc2lob&rid=200w.gif&ct=g");
 }
 
-#gify-whale:hover {
+#gif-6:hover {
 background-image: url("https://media1.giphy.com/media/NEHwlQDizQSpa/200w.gif?cid=ecf05e47xxxqjv0ttiv9i2wjoa7klewevxyhjxzwc81aixwe&rid=200w.gif&ct=g");
 }
 
-#gify-lady:hover {
+#gif-7:hover {
 background-image: url("https://media0.giphy.com/media/1jacd4JEUM03KcdORi/200w.gif?cid=ecf05e47ihgx9wp3zu9drvtuttmnh5ibgw3sap00jybjw4d1&rid=200w.gif&ct=g");
 }
-
 
 p {
   text-shadow: 0px 0px 1px black;
@@ -130,5 +129,10 @@ p {
 
 a:link {
   text-decoration: none;
+}
+
+.main {
+  max-width: 750px;
+  margin: 13px auto;
 }
 
