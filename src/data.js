@@ -40,6 +40,24 @@ export default [
         title: "Always 👑",
         theme: "lady",
         gif: "gif-7"
+    },
+    {
+        id: 8,
+        title: "Current mood 🌑",
+        theme: "rat",
+        gif: "gif-8"
+    },
+    {
+        id: 9,
+        title: "After a hard day's work 🏇🏼",
+        theme: "lizard",
+        gif: "gif-9"
+    },
+    {
+        id: 10,
+        title: "The semester is over 🛀🏽",
+        theme: "rooster",
+        gif: "gif-10"
     }
 
 ]
