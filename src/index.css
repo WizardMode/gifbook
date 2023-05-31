@@ -1,7 +1,6 @@
 body {
   text-align: center;
   font-family: 'Nunito', sans-serif;
-  /* background: #A0E7E5; */
   background-color: #FBE7C6;
 }
 
@@ -17,7 +16,8 @@ header {
   border-bottom: solid
 }
 
-.cover {
+.book {
+  background-image: url("https://cdn.pixabay.com/photo/2017/05/03/22/08/book-2282303_1280.png");
   max-width: 100px;
   width: 100%;
   height: 100px;
@@ -25,22 +25,18 @@ header {
   background-size: cover;
 }
 
-.book {
-  /*background-image: url("https://cdn.pixabay.com/photo/2021/03/27/09/03/notebook-6127838_1280.png")
-  */
-  /*background-image: url("https://cdn.pixabay.com/photo/2014/04/02/16/25/school-307210_1280.png");
-  */
-  background-image: url("https://cdn.pixabay.com/photo/2017/05/03/22/08/book-2282303_1280.png");
-}
-
 .book-hint {
   margin-bottom: 0;
 }
 
+
 .gif-section {
+  /*
   margin-top: 40px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto;*/
+  margin: 0 auto;
+
 }
 
 .gif-title {
@@ -130,5 +126,9 @@ p {
 .cite {
  margin-top: 45px;
  margin-bottom: 0px;
+}
+
+a:link {
+  text-decoration: none;
 }
 

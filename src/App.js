@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Header />
-      <h3 className="book-hint">Hint: turn the page over</h3>
+      <h3 className="book-hint">Hint: tap the page over</h3>
       <Page 
         title="That was fun 🎉"
         theme="rat"
