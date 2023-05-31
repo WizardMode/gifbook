@@ -1,6 +1,6 @@
 function Page(props) {
     return (
-        <div className="gif-section">
+        <div>
             <h2 className="gif-title">{props.title}</h2>
             <div className={`gif-img ${props.theme}`} id={props.gif}>
             </div>
