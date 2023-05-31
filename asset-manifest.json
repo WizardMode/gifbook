@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gifbook/static/css/main.da9f05ae.css",
+    "main.css": "/gifbook/static/css/main.18627f20.css",
     "main.js": "/gifbook/static/js/main.ada150db.js",
     "index.html": "/gifbook/index.html",
-    "main.da9f05ae.css.map": "/gifbook/static/css/main.da9f05ae.css.map",
+    "main.18627f20.css.map": "/gifbook/static/css/main.18627f20.css.map",
     "main.ada150db.js.map": "/gifbook/static/js/main.ada150db.js.map"
   },
   "entrypoints": [
-    "static/css/main.da9f05ae.css",
+    "static/css/main.18627f20.css",
     "static/js/main.ada150db.js"
   ]
 }
