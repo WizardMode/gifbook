@@ -1,3 +1,5 @@
+import pencil from "../images/pencil.png"
+
 function Footer() {
     return (
         <footer>
@@ -8,7 +10,10 @@ function Footer() {
             <h4 className="attribute"> GIFs by 
                 <a href="https://giphy.com">GIPHY</a>
             </h4>
-            <p className="author"><a href="https://leocreate.pythonanywhere.com">© Leonardo Ramirez 2023</a></p>
+            <div className="container">
+                <img className="pencil" src={pencil}/>
+                <div className="text">© Leonardo Ramirez 2023</div>
+            </div>
         </footer>
     )
 }

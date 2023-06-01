@@ -74,19 +74,22 @@ footer {
   margin: 0;
 }
 
-.author {
-  margin: 15px;
-  color: white;
-  background-color: #002a4e;
-  padding: 6px;
-  border-radius: 5px;
-  font-size: 13px;
-  cursor: pointer;
-  text-decoration: none;
+.container {
+  position: relative;
+  text-align: center;
 }
 
-.author > a {
-  color: inherit
+.pencil {
+  max-width: 350px;
+}
+
+.text {
+  font-size: 13px;
+  color: white;
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 a:link {
