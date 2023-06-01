@@ -1,11 +1,14 @@
 function Footer() {
     return (
         <footer>
-            <p className="cite">images by 
-            <a href="https://pixabay.com/users/designermariene-2114881/"> DesignerMariene</a> via <a href="https://pixabay.com"> Pixabay</a></p>
-            <p className="attribute">and</p>
-            <p className="attribute"> GIFs by <a href="https://giphy.com">GIPHY</a></p>
-            <p>©️ Leonardo Ramirez 2023</p>
+            <h4 className="attribute">images by 
+                <a href="https://pixabay.com/users/designermariene-2114881/"> DesignerMariene</a> via <a href="https://pixabay.com"> Pixabay</a>
+            </h4>
+            <h4 className="attribute">and</h4>
+            <h4 className="attribute"> GIFs by 
+                <a href="https://giphy.com">GIPHY</a>
+            </h4>
+            <p className="author"><a href="https://leocreate.pythonanywhere.com">© Leonardo Ramirez 2023</a></p>
         </footer>
     )
 }
