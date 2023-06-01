@@ -62,7 +62,7 @@ header {
 }
 
 footer {
-  margin-top: 10px;
+  margin: 8px 0px;
   font-size: 18px;
   display: flex;
   flex-direction: column;
@@ -84,7 +84,7 @@ footer {
 }
 
 .text {
-  font-size: 13px;
+  font-size: 14px;
   color: white;
   position: absolute;
   top: 38%;
