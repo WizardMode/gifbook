@@ -1,8 +1,12 @@
-import { useState } from "react";
+import { useState } from "react"
 
-function Page(props) {
+function Card(props) {
 
     const [isHover, setIsHover] = useState(false)
+
+    const styles = {
+        backgroundImage: isHover && `url(${props.gif})`
+    }
     
     function handleMouseEnter() {
         setIsHover(true)
@@ -13,11 +17,11 @@ function Page(props) {
     }
 
     return (
-            <div className="gif-section">
+            <div className="gif-card">
                 <h2 className="gif-title">{props.title}</h2>
                 <div 
                     className={`gif-img ${props.theme}`} 
-                    style={{backgroundImage: isHover && `url(${props.gif})`}}
+                    style={styles}
                     onMouseEnter={handleMouseEnter}
                     onMouseLeave={handleMouseLeave}
                 >
@@ -26,4 +30,4 @@ function Page(props) {
     )
 }
 
-export default Page;
+export default Card

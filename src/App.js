@@ -1,12 +1,12 @@
 import Header from "./components/Header";
-import Page from "./components/Page";
+import Card from "./components/Card";
 import Footer from "./components/Footer";
 import data from "./data";
 
 function App() {
 
-  const pageElements = data.map(item => (
-      <Page
+  const cardElements = data.map(item => (
+      <Card
         key={item.id}
         title={item.title}
         theme={item.theme}
@@ -18,7 +18,7 @@ function App() {
     <div>
       <Header />
       <section>
-        {pageElements}
+        {cardElements}
       </section>
       <Footer />
     </div>
