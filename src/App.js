@@ -17,7 +17,9 @@ function App() {
   return (
     <div>
       <Header />
-      {pageElements}
+      <section>
+        {pageElements}
+      </section>
       <Footer />
     </div>
   )
