@@ -8,7 +8,7 @@ function Footer() {
             </h4>
             <h4 className="attribute">and</h4>
             <h4 className="attribute"> GIFs by 
-                <a href="https://giphy.com">GIPHY</a>
+                <a href="https://giphy.com"> GIPHY</a>
             </h4>
             <div className="container">
                 <img className="pencil" src={pencil}/>
