@@ -61,10 +61,20 @@ export default [
     },
     {
         id: 11,
-        title: "The future holds 👁",
+        title: "What the future holds 👁",
         theme: "penguin",
         gif: "https://media0.giphy.com/media/e9kmj7qsaMKcxcavR5/200w.gif?cid=ecf05e4700f8t662wci71ivi8u5njcsvmqhp6oln8k23m9b7&ep=v1_gifs_related&rid=200w.gif&ct=g"
+    },
+    {
+        id: 12,
+        title: "I know 👓",
+        theme: "frog",
+        gif: "https://media2.giphy.com/media/dZWUtQ5y5AhXh7z9uO/200w.gif?cid=ecf05e474cucbsimde324un74d2cwupnif2pxnqhpq19d5v0&ep=v1_gifs_related&rid=200w.gif&ct=g"
+    },
+    {
+        id: 13,
+        title: "You got mail 📫",
+        theme: "whale",
+        gif: "https://media1.giphy.com/media/vJxKh7kcsbZph4VVVs/200w.gif?cid=ecf05e47yuquwwhutsu1sh10uuek162p5lgx4nigx0uqcay6&ep=v1_gifs_trending&rid=200w.gif&ct=g"
     }
-
-
 ]
