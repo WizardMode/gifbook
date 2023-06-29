@@ -58,6 +58,13 @@ export default [
         title: "The semester is over 🛀🏽",
         theme: "rooster",
         gif: "https://media2.giphy.com/media/MNmyTin5qt5LSXirxd/giphy.gif?cid=ecf05e47x0u5g13eanb2x4q1pfciyrw6znob2pv0q0otbgjs&ep=v1_gifs_related&rid=giphy.gif&ct=g"
+    },
+    {
+        id: 11,
+        title: "The future holds 👁",
+        theme: "penguin",
+        gif: "https://media0.giphy.com/media/e9kmj7qsaMKcxcavR5/200w.gif?cid=ecf05e4700f8t662wci71ivi8u5njcsvmqhp6oln8k23m9b7&ep=v1_gifs_related&rid=200w.gif&ct=g"
     }
+
 
 ]
