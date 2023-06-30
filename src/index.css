@@ -77,23 +77,37 @@ footer {
 }
 
 .container {
-  position: relative;
+  margin-top: 15px;
   text-align: center;
+  background-image: url("./images/pencil2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-.pencil {
-  max-width: 350px;
+.footer-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  padding: 5px;
 }
 
 .text {
   font-size: 14px;
-  color: white;
-  position: absolute;
-  top: 38%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  font-weight: 600;
+  color: black;
 }
 
+.icon {
+  width: 25px;
+  height: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
 a:link {
   text-decoration: none;
 }
