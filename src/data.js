@@ -76,5 +76,11 @@ export default [
         title: "You got mail 📫",
         theme: "whale",
         gif: "https://media1.giphy.com/media/vJxKh7kcsbZph4VVVs/200w.gif?cid=ecf05e47yuquwwhutsu1sh10uuek162p5lgx4nigx0uqcay6&ep=v1_gifs_trending&rid=200w.gif&ct=g"
+    },
+    {
+        id: 14,
+        title: "Every night 🛌🏼",
+        theme: "lady",
+        gif: "https://media1.giphy.com/media/3o7qDFZCe1ZUfHRLvq/200w.gif?cid=ecf05e47itx7zwv2gfm92aij9792mg1ijuszyxqwcmn7cbe9&ep=v1_gifs_related&rid=200w.gif&ct=g"
     }
 ]
