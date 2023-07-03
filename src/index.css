@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -11,7 +15,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 25px;
+  margin: 15px 0 0 0;
 }
 
 .title {
@@ -42,13 +46,11 @@ header {
 section {
   display: flex;
   flex-wrap: wrap;
-  /*justify-content: space-around;*/
   justify-content: space-evenly;
 }
 
 .gif-card {
   width: 360px;
-  /*padding: 5px;*/
 }
 
 .gif-title {
@@ -67,7 +69,7 @@ section {
 }
 
 footer {
-  margin: 25px 0 10px 0;
+  margin: 25px 0 15px 0;
   font-size: 18px;
   display: flex;
   flex-direction: column;
@@ -78,7 +80,7 @@ footer {
 }
 
 .container {
-  margin-top: 15px;
+  margin-top: 10px;
   text-align: center;
   background-image: url("./images/pencil2.png");
   background-size: contain;
