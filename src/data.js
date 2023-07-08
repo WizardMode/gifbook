@@ -82,5 +82,11 @@ export default [
         title: "Every night 🛌🏼",
         theme: "lady",
         gif: "https://media1.giphy.com/media/3o7qDFZCe1ZUfHRLvq/200w.gif?cid=ecf05e47itx7zwv2gfm92aij9792mg1ijuszyxqwcmn7cbe9&ep=v1_gifs_related&rid=200w.gif&ct=g"
+    }, 
+    {
+        id: 15,
+        title: "Rewatching 🍿", 
+        theme: "rat",
+        gif: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZleXp5Z3N6b3J4YmpsMGVrMGtxaXhyZG9lcGF0anlvYXM3OHQyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUVf3KOQZNvmpy/giphy.gif"
     }
 ]
